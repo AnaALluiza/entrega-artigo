@@ -1,0 +1,64 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(152, 157, 164);
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+p{
+    line-height: 1.6;
+    color: rgb(251, 251, 251);
+    font-size: large;
+    
+
+}
+
+img{
+    width: 40%;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    border: 10px;
+} 
+
+
+
+.pai{
+    border:5px solid rgb(0, 0, 0) ;
+    padding: auto;
+
+
+}
+
+.filho{
+    border: 5px solid rgb(0, 0, 0);
+    padding: 20px;
+}
+.tio{
+    border: 5px solid rgb(11, 1, 1);
+    padding: 20px;
+    border-color: rgb(0, 0, 0);
+
+}
+
+.vó{
+    border: 5px solid rgb(0, 0, 0);
+    padding: 20px;
+}
+
+.primo{
+    border: 5px solid rgb(0, 0, 0);
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
